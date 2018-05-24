@@ -1,7 +1,7 @@
 title = "Notre-Dame de Paris"
 baseURL = "https://distracted-williams-4f68e0.netlify.com"
 languageCode = "en-us"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
