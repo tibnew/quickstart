@@ -1,4 +1,4 @@
-baseURL = "https://distracted-williams-4f68e0.netlify.com/"
+baseURL = "https://distracted-williams-4f68e0.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
