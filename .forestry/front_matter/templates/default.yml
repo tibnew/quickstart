@@ -18,5 +18,6 @@ fields:
   hidden: false
   default: true
 pages:
+- posts/test.md
 - posts/hello.md
 - posts/new-post.md
