@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: true
 pages:
+- posts/hello-marie.md
 - posts/test.md
 - posts/hello.md
 - posts/new-post.md
