@@ -1,7 +1,6 @@
 ---
-title: "Nature Photos"
-date: 2018-05-29T00:21:28+03:00
-draft: false
----
+title: Nature Photos
+date: 2018-05-29 00:21:28 +0300
 
-{{< photo full="image1.jpg" thumb="image1.jpg" alt="" phototitle="girl" description="Îïèñàíèå">}}
+---
+{{< photo full="image1.jpg" thumb="image1.jpg" alt="" phototitle="girl" description="ÐžÐ¿Ð¸ÑÐ°Ð½Ð¸Ðµ">}}
