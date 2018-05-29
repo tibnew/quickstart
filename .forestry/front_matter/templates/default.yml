@@ -8,4 +8,5 @@ fields:
   hidden: false
   default: path/to/album/cover/image
 pages:
+- nature-photos/_index.md
 - nature-photos/test-2.md
