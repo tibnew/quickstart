@@ -17,6 +17,10 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: text
+  name: albumthumb
+  label: album picture
+  description: help
 pages:
 - nature-photos/test-tst.md
 - nature-photos/test2.md
