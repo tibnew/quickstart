@@ -22,6 +22,7 @@ fields:
   label: album picture
   description: help
 pages:
+- nature-photos/test-1.md
 - nature-photos/test-tst.md
 - nature-photos/test2.md
 - nature-photos/test.md
