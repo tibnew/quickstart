@@ -18,6 +18,7 @@ fields:
   hidden: false
   default: true
 pages:
+- nature-photos/test2.md
 - nature-photos/test.md
 - posts/hello-marie.md
 - posts/test.md
