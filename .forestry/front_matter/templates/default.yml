@@ -1,6 +1,6 @@
 ---
+label: default
 hide_body: false
-is_partial: false
 fields:
 - name: albumthumb
   label: Albumthumb
@@ -8,5 +8,5 @@ fields:
   hidden: false
   default: path/to/album/cover/image
 pages:
-- nature-photos/_index.md
-- nature-photos/test-2.md
+- content/nature-photos/_index.md
+- content/nature-photos/test-2.md
