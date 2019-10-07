@@ -1,4 +1,4 @@
-baseurl = "http://showerphoto.by/"
+baseurl = "https://showerphoto.by/"
 googleAnalytics = "UA-XXXXXXX-Y"
 languageCode = "en-us"
 theme = "phugo"
